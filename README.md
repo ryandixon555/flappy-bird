@@ -1,7 +1,13 @@
 # flappy-bird
 
-A HTML5 version of JavaScript
+A HTML5 version of Flappy Bird
 
-To run, clone the repo and load the HTML file in your browser.
+## To Run:
+* npm i
+* npm start
 
+## Site:
+https://ryandixon555.github.io/flappy-bird/
+
+## Notes:
 Use the space bar to move the bird.
